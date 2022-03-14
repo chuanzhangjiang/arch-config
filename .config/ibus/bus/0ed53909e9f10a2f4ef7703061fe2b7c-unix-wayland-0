@@ -1,0 +1,3 @@
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-pQ1h2UJLVi,guid=8ff376e4af2eb847c2e22c0e622f0451,fcitx_random_string=472c6c350fb14f4f8a4f1462460a411b
+IBUS_DAEMON_PID=575
+

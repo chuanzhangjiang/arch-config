@@ -1,0 +1,9 @@
+[user]
+	email = chuanzhangjiang@outlook.com
+	name = chuanzhangjiang
+[diff]
+	tool = ediff
+[difftool "ediff"]
+	cmd = ~/.local/bin/ediff \"$LOCAL\" \"$REMOTE\"
+[difftool]
+	prompt = false

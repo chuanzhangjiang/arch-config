@@ -1,0 +1,94 @@
+: delete 
+: mkdir win7share
+: mkdir VirtualBox VMs
+: delete 
+: clear 
+: delete 
+: mkdir win7share
+: delete 
+: mkdir miniprog
+: mkdir helloworld
+: mkdir backup
+: copyto 
+: mkdir autostart
+: delete 
+: delete 
+: delete 
+: delete 
+: delete 
+: sudo delet
+: delete 
+: delete 
+: mkdir scala3
+: mkdir helloworld
+: delete 
+: delete 
+: mkdir src
+: mkdir main test
+: delete 
+: mkdir main
+: clear 
+: mkdir test
+% mkdir java resources scala
+$ mkdir java resources scala
+: delete 
+: delete 
+: delete 
+: mkdir scala2proj
+: extract 
+: delete 
+: extract
+: delete 
+: delete 
+: reload 
+: clear 
+: delete 
+$ touch DBMigrationManager.scala
+: delete 
+: delete 
+: delete 
+: mkdir .local/etc/lsp/metals
+: delete 
+: delete 
+: delete 
+: touch ediff
+$ touch ediff
+$ emacs ediff 
+$ chmod u+x
+$ chmod u+x ediff 
+: reload 
+: reload 
+: delete 
+: delete 
+: delete 
+: clear 
+: delete 
+: delete 
+: delete 
+: copyto 
+: paste 
+: delete 
+: clear 
+: paste 
+: delete 
+: paste 
+: delete 
+: delete 
+: delete 
+: delete 
+: delete 
+: paste 
+: setbg 
+: setbg
+: delete 
+: delete 
+: delete 
+: delete 
+: delete 
+: delete 
+: delete 
+: setbg
+: delete 
+: rename 
+: delete 
+: setbg 
